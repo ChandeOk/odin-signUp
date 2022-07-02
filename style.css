@@ -113,4 +113,13 @@ button {
   font-size: 1.2rem;
   color: #e5e7eb;
   font-weight: 600;
+  cursor: pointer;
+}
+
+.no-match {
+  border: 1px solid red;
+}
+
+.error {
+  display: inline;
 }
